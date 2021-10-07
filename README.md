@@ -1,4 +1,4 @@
-# Desafio Supermed
+# Desafio Bitix
 
 ## Descrição do desafio
 Com as especificações acima, faça um programa que permita a entrada dos seguintes dados:
